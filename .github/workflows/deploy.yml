@@ -1,4 +1,4 @@
-blogname: Deploy Hugo site to Page0
+name: Deploy Hugo site to Page
 
 on:
   push:
